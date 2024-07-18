@@ -7,9 +7,7 @@ A simple JavaScript project that generates a random color and applies it to a `d
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Usage](#usage).
 
 ## Installation
 
